@@ -246,3 +246,16 @@ section .conheca-sobre .conhecaInfo-sobre p{
     font-size: 20px;
     margin-bottom: 10px;
 }
+
+section .contatos{
+    display: inline-grid;
+    grid-template-columns: auto auto;
+}
+
+section .contatos .contatos-info{
+    
+}
+
+section .contatos .contatos-map{
+    
+}
